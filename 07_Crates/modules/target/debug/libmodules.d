@@ -1,0 +1,1 @@
+/home/aditya/Documents/Rust\ Practice/07_Crates/modules/target/debug/libmodules.rlib: /home/aditya/Documents/Rust\ Practice/07_Crates/modules/src/garden/vegetables.rs /home/aditya/Documents/Rust\ Practice/07_Crates/modules/src/garden.rs /home/aditya/Documents/Rust\ Practice/07_Crates/modules/src/lib.rs

@@ -1,0 +1,1 @@
+{"rustc_fingerprint":971957500540124941,"outputs":{"9886778205675888989":{"success":false,"status":"exit status: 2","code":2,"stdout":"","stderr":"error: unexpected argument '-v' found\n\n  tip: to pass '-v' as a value, use '-- -v'\n\nUsage: cargo-modules <COMMAND>\n\nFor more information, try '--help'.\n"}},"successes":{}}
