@@ -2,3 +2,4 @@
 *.html linguist-detectable=false
 Makefile linguist-detectable=false
 Makefile linguist-vendored
+Makefile.mk linguist-documentation=false
