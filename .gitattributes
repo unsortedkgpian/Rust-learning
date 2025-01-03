@@ -1,2 +1,3 @@
 *.rs linguist-detectable=true
 *.html linguist-detectable=false
+Makefile linguist-detectable=false
