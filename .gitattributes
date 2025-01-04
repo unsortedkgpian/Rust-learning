@@ -1,5 +1,4 @@
 *.rs linguist-detectable=true
 *.html linguist-detectable=false
-Makefile linguist-detectable=false
-Makefile.mk linguist-documentation=false
 Makefile linguist-vendored=true
+Makefile.mk linguist-documentation=false
