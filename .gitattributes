@@ -1,6 +1,10 @@
-*.rs linguist-detectable=true
-*.html linguist-detectable=false
-Makefile linguist-vendored=false
-.rs linguist-language=Rust
+# Override language detection for specific file patterns
+*.rs linguist-language=Rust
 *.js linguist-language=JavaScript
 *.cpp linguist-language=C++
+
+# Ignore HTML files
+*.html linguist-detectable=false
+
+# Ignore Makefile
+Makefile linguist-detectable=false
