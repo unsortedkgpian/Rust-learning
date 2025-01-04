@@ -1,3 +1,6 @@
-*.rs linguist-language=Rust
+*.rs linguist-detectable=true
+*.html linguist-detectable=false
+Makefile linguist-vendored=false
+.rs linguist-language=Rust
 *.js linguist-language=JavaScript
 *.cpp linguist-language=C++
