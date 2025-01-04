@@ -1,0 +1,3 @@
+# .linguist
+documentation:
+  - Makefile.mk

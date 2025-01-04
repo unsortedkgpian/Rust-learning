@@ -1,2 +1,4 @@
-*.rs linguist-language=Rust
-*.html linguist-language=HTML
+*.rs linguist-detectable=true
+*.html linguist-detectable=false
+Makefile linguist-vendored=true
+Makefile.mk linguist-documentation=false
